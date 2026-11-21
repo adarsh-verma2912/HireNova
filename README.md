@@ -164,7 +164,7 @@ CI/CD pipeline integration
 
 👨‍💻 Author
 
-Abhimanyu Kumar
+Adarsh Kumar Verma
 Computer Science Student | MERN Stack Developer
 
 ⭐ Acknowledgement
